@@ -1,0 +1,1301 @@
+,movie,year,time_minute,imdb_rating,metascore
+0,Avatar: The Way of Water,(2022),192 min,7.8,67        
+1,Puss in Boots: The Last Wish,(2022),102 min,7.9,75        
+2,The Banshees of Inisherin,(2022),114 min,7.8,87        
+3,Everything Everywhere All at Once,(2022),139 min,8.0,81        
+4,The Fabelmans,(2022),151 min,7.7,84        
+5,Knives Out,(2019),130 min,7.9,82        
+6,Avatar,(2009),162 min,7.9,83        
+7,Top Gun: Maverick,(2022),130 min,8.3,78        
+8,Aftersun,(II) (2022),102 min,7.8,95        
+9,All Quiet on the Western Front,(2022),148 min,7.8,76        
+10,Guillermo del Toro's Pinocchio,(2022),117 min,7.7,79        
+11,RRR,(2022),187 min,7.9,83        
+12,The Godfather,(1972),175 min,9.2,100        
+13,The Batman,(2022),176 min,7.8,72        
+14,Once Upon a Time in Hollywood,(2019),161 min,7.6,83        
+15,The Shawshank Redemption,(1994),142 min,9.3,81        
+16,Interstellar,(2014),169 min,8.6,74        
+17,Harry Potter and the Sorcerer's Stone,(2001),152 min,7.6,65        
+18,Titanic,(1997),194 min,7.9,75        
+19,Pulp Fiction,(1994),154 min,8.9,94        
+20,Dune,(2021),155 min,8.0,74        
+21,The Goonies,(1985),114 min,7.7,62        
+22,Spider-Man: No Way Home,(2021),148 min,8.2,71        
+23,The Wolf of Wall Street,(2013),180 min,8.2,75        
+24,American Psycho,(2000),102 min,7.6,64        
+25,The Dark Knight,(2008),152 min,9.0,84        
+26,Inception,(2010),148 min,8.8,74        
+27,Fight Club,(1999),139 min,8.8,66        
+28,Whiplash,(2014),106 min,8.5,89        
+29,The Gentlemen,(2019),113 min,7.8,51        
+30,The Blues Brothers,(1980),133 min,7.9,60        
+31,Good Will Hunting,(1997),126 min,8.3,70        
+32,Heat,(1995),170 min,8.3,76        
+33,Avengers: Endgame,(2019),181 min,8.4,78        
+34,The Lord of the Rings: The Fellowship of the Ring,(2001),178 min,8.8,92        
+35,Parasite,(2019),132 min,8.5,96        
+36,Blade Runner 2049,(2017),164 min,8.0,81        
+37,Prisoners,(2013),153 min,8.1,70        
+38,In Bruges,(2008),107 min,7.9,67        
+39,Jurassic Park,(1993),127 min,8.2,68        
+40,A Man Called Ove,(2015),116 min,7.7,70        
+41,Road to Perdition,(2002),117 min,7.7,72        
+42,Schindler's List,(1993),195 min,9.0,94        
+43,Goodfellas,(1990),145 min,8.7,91        
+44,Forrest Gump,(1994),142 min,8.8,82        
+45,Joker,(I) (2019),122 min,8.4,59        
+46,Inglourious Basterds,(2009),153 min,8.3,69        
+47,Black Swan,(2010),108 min,8.0,79        
+48,The Prestige,(2006),130 min,8.5,66        
+49,Get Out,(I) (2017),104 min,7.7,85        
+50,Indiana Jones and the Raiders of the Lost Ark,(1981),115 min,8.4,85        
+51,The Departed,(2006),151 min,8.5,85        
+52,Drive,(I) (2011),100 min,7.8,78        
+53,Green Book,(2018),130 min,8.2,69        
+54,Tombstone,(1993),130 min,7.8,50        
+55,Léon: The Professional,(1994),110 min,8.5,64        
+56,The Godfather: Part II,(1974),202 min,9.0,90        
+57,Sicario,(2015),121 min,7.6,82        
+58,Django Unchained,(2012),165 min,8.4,81        
+59,Requiem for a Dream,(2000),102 min,8.3,71        
+60,Gladiator,(2000),155 min,8.5,67        
+61,Apocalypse Now,(1979),147 min,8.5,94        
+62,Sing Street,(2016),106 min,7.9,79        
+63,The Grand Budapest Hotel,(2014),99 min,8.1,88        
+64,Gone Girl,(2014),149 min,8.1,79        
+65,The Breakfast Club,(1985),97 min,7.8,66        
+66,La La Land,(2016),128 min,8.0,94        
+67,12 Angry Men,(1957),96 min,9.0,96        
+68,Pride & Prejudice,(2005),129 min,7.8,82        
+69,Se7en,(1995),127 min,8.6,65        
+70,American Beauty,(1999),122 min,8.4,84        
+71,Hidden Figures,(2016),127 min,7.8,74        
+72,Shutter Island,(2010),138 min,8.2,63        
+73,Life Is Beautiful,(1997),116 min,8.6,59        
+74,Rogue One: A Star Wars Story,(2016),133 min,7.8,65        
+75,The Green Mile,(1999),189 min,8.6,61        
+76,The Lord of the Rings: The Return of the King,(2003),201 min,9.0,94        
+77,The Silence of the Lambs,(1991),118 min,8.6,85        
+78,The Matrix,(1999),136 min,8.7,73        
+79,Mad Max: Fury Road,(2015),120 min,8.1,90        
+80,Alien,(1979),117 min,8.5,89        
+81,Harry Potter and the Goblet of Fire,(2005),157 min,7.7,81        
+82,Back to the Future,(1985),116 min,8.5,87        
+83,Rocky,(1976),120 min,8.1,70        
+84,No Country for Old Men,(2007),122 min,8.2,92        
+85,Mission: Impossible - Fallout,(2018),147 min,7.7,86        
+86,Bohemian Rhapsody,(2018),134 min,7.9,49        
+87,Reservoir Dogs,(1992),99 min,8.3,79        
+88,Hacksaw Ridge,(2016),139 min,8.1,71        
+89,Her,(2013),126 min,8.0,91        
+90,"Three Billboards Outside Ebbing, Missouri",(2017),115 min,8.1,88        
+91,Eternal Sunshine of the Spotless Mind,(2004),108 min,8.3,89        
+92,Little Women,(2019),135 min,7.8,91        
+93,Taxi Driver,(1976),114 min,8.2,94        
+94,CODA,(2021),111 min,8.0,72        
+95,The Worst Person in the World,(2021),128 min,7.8,90        
+96,Star Wars: Episode IV - A New Hope,(1977),121 min,8.6,90        
+97,"The Good, the Bad and the Ugly",(1966),178 min,8.8,90        
+98,Harry Potter and the Deathly Hallows: Part 2,(2011),130 min,8.1,85        
+99,1917,(2019),119 min,8.2,78        
+100,Guardians of the Galaxy,(2014),121 min,8.0,76        
+101,The Dark Knight Rises,(2012),164 min,8.4,78        
+102,The Sting,(1973),129 min,8.3,83        
+103,The Father,(I) (2020),97 min,8.2,88        
+104,The Usual Suspects,(1995),106 min,8.5,77        
+105,Memento,(2000),113 min,8.4,81        
+106,The Princess Bride,(1987),98 min,8.0,77        
+107,Aliens,(1986),137 min,8.4,84        
+108,Wind River,(2017),107 min,7.7,73        
+109,American History X,(1998),119 min,8.5,62        
+110,Pirates of the Caribbean: The Curse of the Black Pearl,(2003),143 min,8.1,63        
+111,Thirteen Lives,(2022),147 min,7.8,66        
+112,Avengers: Infinity War,(2018),149 min,8.4,68        
+113,Scarface,(1983),170 min,8.3,65        
+114,Blade Runner,(1982),117 min,8.1,84        
+115,The Fifth Element,(1997),126 min,7.6,52        
+116,Harry Potter and the Deathly Hallows: Part 1,(2010),146 min,7.7,65        
+117,Ex Machina,(2014),108 min,7.7,78        
+118,Kingsman: The Secret Service,(2014),129 min,7.7,60        
+119,About Time,(I) (2013),123 min,7.8,55        
+120,The Hateful Eight,(2015),168 min,7.8,68        
+121,Oldboy,(2003),101 min,8.4,77        
+122,Saving Private Ryan,(1998),169 min,8.6,91        
+123,The Shining,(1980),146 min,8.4,66        
+124,A Clockwork Orange,(1971),136 min,8.3,77        
+125,Donnie Darko,(2001),113 min,8.0,88        
+126,Harry Potter and the Prisoner of Azkaban,(2004),142 min,7.9,82        
+127,Spider-Man: Into the Spider-Verse,(2018),117 min,8.4,87        
+128,Terminator 2: Judgment Day,(1991),137 min,8.6,75        
+129,Brokeback Mountain,(2005),134 min,7.7,87        
+130,Logan,(2017),137 min,8.1,77        
+131,The Hobbit: An Unexpected Journey,(2012),169 min,7.8,58        
+132,Ford v Ferrari,(2019),152 min,8.1,81        
+133,Mulholland Drive,(2001),147 min,7.9,86        
+134,Kantara,(2022),148 min,8.4,-
+135,Indiana Jones and the Last Crusade,(1989),127 min,8.2,65        
+136,Zodiac,(2007),157 min,7.7,79        
+137,Call Me by Your Name,(2017),132 min,7.8,94        
+138,Snatch,(2000),102 min,8.2,55        
+139,Batman Begins,(2005),140 min,8.2,70        
+140,The Handmaiden,(2016),145 min,8.1,84        
+141,Zack Snyder's Justice League,(2021),242 min,8.0,54        
+142,Shrek,(2001),90 min,7.9,84        
+143,Superbad,(2007),113 min,7.6,76        
+144,Searching,(III) (2018),102 min,7.6,71        
+145,The Big Short,(2015),130 min,7.8,81        
+146,The Irishman,(2019),209 min,7.8,94        
+147,Stand by Me,(1986),89 min,8.1,75        
+148,Dunkirk,(2017),106 min,7.8,94        
+149,The Hangover,(2009),100 min,7.7,73        
+150,Spirited Away,(2001),125 min,8.6,96        
+151,The Big Lebowski,(1998),117 min,8.1,71        
+152,The Truman Show,(1998),103 min,8.2,90        
+153,Star Wars: Episode VII - The Force Awakens,(2015),138 min,7.8,80        
+154,Arrival,(II) (2016),116 min,7.9,81        
+155,Amadeus,(1984),160 min,8.4,88        
+156,The Lord of the Rings: The Two Towers,(2002),179 min,8.8,87        
+157,The Lion King,(1994),88 min,8.5,88        
+158,The Terminator,(1984),107 min,8.1,84        
+159,Catch Me If You Can,(2002),141 min,8.1,75        
+160,Sin City,(2005),124 min,8.0,74        
+161,Primal Fear,(1996),129 min,7.7,47        
+162,The Notebook,(2004),123 min,7.8,53        
+163,The Sixth Sense,(1999),107 min,8.2,64        
+164,Home Alone,(1990),103 min,7.7,63        
+165,One Flew Over the Cuckoo's Nest,(1975),133 min,8.7,84        
+166,The Sound of Music,(1965),172 min,8.1,63        
+167,The Revenant,(2015),156 min,8.0,76        
+168,Die Hard,(1988),132 min,8.2,72        
+169,Braveheart,(1995),178 min,8.4,68        
+170,The Hunt,(2012),115 min,8.3,77        
+171,Trainspotting,(1996),93 min,8.1,83        
+172,Ratatouille,(2007),111 min,8.1,96        
+173,Ocean's Eleven,(2001),116 min,7.7,74        
+174,Kill Bill: Vol. 1,(2003),111 min,8.2,69        
+175,2001: A Space Odyssey,(1968),149 min,8.3,84        
+176,City of God,(2002),130 min,8.6,79        
+177,This Is Spinal Tap,(1984),82 min,7.9,92        
+178,Airplane!,(1980),88 min,7.7,78        
+179,True Romance,(1993),119 min,7.9,59        
+180,Ghostbusters,(1984),105 min,7.8,71        
+181,There Will Be Blood,(2007),158 min,8.2,93        
+182,Minority Report,(2002),145 min,7.6,80        
+183,Remember the Titans,(2000),113 min,7.8,48        
+184,Deadpool,(2016),108 min,8.0,65        
+185,300,(2006),117 min,7.6,52        
+186,Kick-Ass,(2010),117 min,7.6,66        
+187,The Avengers,(2012),143 min,8.0,69        
+188,Casino Royale,(2006),144 min,8.0,80        
+189,The Perks of Being a Wallflower,(2012),103 min,7.9,67        
+190,Jojo Rabbit,(2019),108 min,7.9,58        
+191,Full Metal Jacket,(1987),116 min,8.3,76        
+192,Watchmen,(2009),162 min,7.6,56        
+193,Come and See,(1985),142 min,8.4,-
+194,The Pianist,(2002),150 min,8.5,85        
+195,JFK,(1991),189 min,8.0,72        
+196,Office Space,(1999),89 min,7.6,68        
+197,Almost Famous,(2000),122 min,7.9,90        
+198,The Thing,(1982),109 min,8.2,57        
+199,Hamilton,(2020),160 min,8.4,89        
+200,Boogie Nights,(1997),155 min,7.9,85        
+201,Nightcrawler,(2014),117 min,7.8,76        
+202,The Intouchables,(2011),112 min,8.5,57        
+203,Finding Nemo,(2003),100 min,8.2,90        
+204,Once Upon a Time in America,(1984),229 min,8.3,75        
+205,The Social Network,(2010),120 min,7.8,95        
+206,The Martian,(2015),144 min,8.0,80        
+207,Coco,(I) (2017),105 min,8.4,81        
+208,Jaws,(1975),124 min,8.1,87        
+209,Iron Man,(2008),126 min,7.9,79        
+210,The Help,(2011),146 min,8.1,62        
+211,Zootopia,(2016),108 min,8.0,78        
+212,Moana,(I) (2016),107 min,7.6,81        
+213,Fargo,(1996),98 min,8.1,85        
+214,The Imitation Game,(2014),114 min,8.0,71        
+215,The Blind Side,(2009),129 min,7.6,53        
+216,Black Hawk Down,(2001),144 min,7.7,74        
+217,Once Upon a Time in the West,(1968),165 min,8.5,80        
+218,Dead Poets Society,(1989),128 min,8.1,79        
+219,The Exorcist,(1973),122 min,8.1,81        
+220,Hell or High Water,(II) (2016),102 min,7.6,88        
+221,The Girl with the Dragon Tattoo,(2011),158 min,7.8,71        
+222,Blue Is the Warmest Colour,(2013),180 min,7.7,90        
+223,Edward Scissorhands,(1990),105 min,7.9,74        
+224,Kung Fu Panda,(2008),92 min,7.6,74        
+225,Casino,(1995),178 min,8.2,73        
+226,Inside Out,(I) (2015),95 min,8.2,94        
+227,Dances with Wolves,(1990),181 min,8.0,72        
+228,Toy Story,(1995),81 min,8.3,96        
+229,Little Miss Sunshine,(2006),101 min,7.8,80        
+230,Chinatown,(1974),130 min,8.2,92        
+231,Apocalypto,(2006),139 min,7.8,68        
+232,Edge of Tomorrow,(2014),113 min,7.9,71        
+233,Skyfall,(2012),143 min,7.8,81        
+234,Deadpool 2,(2018),119 min,7.7,66        
+235,Howl's Moving Castle,(2004),119 min,8.2,80        
+236,Ferris Bueller's Day Off,(1986),103 min,7.8,61        
+237,Star Trek,(2009),127 min,7.9,82        
+238,Atonement,(2007),123 min,7.8,85        
+239,Thor: Ragnarok,(2017),130 min,7.9,74        
+240,E.T. the Extra-Terrestrial,(1982),115 min,7.9,91        
+241,Lion,(2016),118 min,8.0,69        
+242,Spotlight,(I) (2015),129 min,8.1,93        
+243,Casablanca,(1942),102 min,8.5,100        
+244,Manchester by the Sea,(2016),137 min,7.8,96        
+245,Pan's Labyrinth,(2006),118 min,8.2,98        
+246,Guardians of the Galaxy Vol. 2,(2017),136 min,7.6,67        
+247,The Wizard of Oz,(1939),102 min,8.1,92        
+248,Psycho,(1960),109 min,8.5,97        
+249,Before Sunrise,(1995),101 min,8.1,77        
+250,What's Eating Gilbert Grape,(1993),118 min,7.7,73        
+251,The Game,(1997),129 min,7.7,63        
+252,Blue Velvet,(1986),120 min,7.7,76        
+253,Your Name.,(2016),106 min,8.4,79        
+254,In the Heat of the Night,(1967),110 min,7.9,76        
+255,Star Wars: Episode V - The Empire Strikes Back,(1980),124 min,8.7,82        
+256,The Deer Hunter,(1978),183 min,8.1,86        
+257,Another Round,(2020),117 min,7.7,79        
+258,"Lock, Stock and Two Smoking Barrels",(1998),107 min,8.2,66        
+259,500 Days of Summer,(2009),95 min,7.7,76        
+260,Star Wars: Episode VI - Return of the Jedi,(1983),131 min,8.3,58        
+261,The Hobbit: The Desolation of Smaug,(2013),161 min,7.8,66        
+262,Into the Wild,(2007),148 min,8.1,73        
+263,Room,(I) (2015),118 min,8.1,86        
+264,The Incredibles,(2004),115 min,8.0,90        
+265,My Cousin Vinny,(1992),120 min,7.6,68        
+266,Memories of Murder,(2003),132 min,8.1,82        
+267,A Beautiful Mind,(2001),135 min,8.2,72        
+268,Groundhog Day,(1993),101 min,8.1,72        
+269,A Star Is Born,(2018),136 min,7.6,88        
+270,It's a Wonderful Life,(1946),130 min,8.6,89        
+271,12 Years a Slave,(2013),134 min,8.1,96        
+272,Predator,(1987),107 min,7.8,47        
+273,The Curious Case of Benjamin Button,(2008),166 min,7.8,70        
+274,Birdman or (The Unexpected Virtue of Ignorance),(2014),119 min,7.7,87        
+275,When Harry Met Sally...,(1989),95 min,7.7,76        
+276,Warrior,(2011),140 min,8.2,71        
+277,Stardust,(2007),127 min,7.6,66        
+278,3 Idiots,(2009),170 min,8.4,67        
+279,True Grit,(2010),110 min,7.6,80        
+280,Moneyball,(2011),133 min,7.6,87        
+281,Saw,(2004),103 min,7.6,46        
+282,RoboCop,(1987),102 min,7.6,70        
+283,"O Brother, Where Art Thou?",(2000),107 min,7.7,69        
+284,Beauty and the Beast,(1991),84 min,8.0,95        
+285,The Fugitive,(1993),130 min,7.8,87        
+286,Gone with the Wind,(1939),238 min,8.2,97        
+287,A Few Good Men,(1992),138 min,7.7,62        
+288,Marriage Story,(2019),137 min,7.9,94        
+289,Crash,(I) (2004),112 min,7.8,66        
+290,The Last Samurai,(2003),154 min,7.8,55        
+291,Portrait of a Lady on Fire,(2019),122 min,8.1,95        
+292,The Untouchables,(1987),119 min,7.8,79        
+293,Amélie,(2001),122 min,8.3,69        
+294,Lost in Translation,(2003),102 min,7.7,91        
+295,Blazing Saddles,(1974),93 min,7.7,73        
+296,Incendies,(2010),131 min,8.3,80        
+297,Inside Man,(2006),129 min,7.6,76        
+298,WALL·E,(2008),98 min,8.4,95        
+299,The Invisible Man,(1933),71 min,7.6,87        
+300,Avatar: The Way of Water,(2022),192 min,7.8,67        
+301,Puss in Boots: The Last Wish,(2022),102 min,7.9,75        
+302,The Banshees of Inisherin,(2022),114 min,7.8,87        
+303,Everything Everywhere All at Once,(2022),139 min,8.0,81        
+304,The Fabelmans,(2022),151 min,7.7,84        
+305,Knives Out,(2019),130 min,7.9,82        
+306,Avatar,(2009),162 min,7.9,83        
+307,Top Gun: Maverick,(2022),130 min,8.3,78        
+308,Aftersun,(II) (2022),102 min,7.8,95        
+309,All Quiet on the Western Front,(2022),148 min,7.8,76        
+310,Guillermo del Toro's Pinocchio,(2022),117 min,7.7,79        
+311,RRR,(2022),187 min,7.9,83        
+312,The Godfather,(1972),175 min,9.2,100        
+313,The Batman,(2022),176 min,7.8,72        
+314,Once Upon a Time in Hollywood,(2019),161 min,7.6,83        
+315,The Shawshank Redemption,(1994),142 min,9.3,81        
+316,Interstellar,(2014),169 min,8.6,74        
+317,Harry Potter and the Sorcerer's Stone,(2001),152 min,7.6,65        
+318,Titanic,(1997),194 min,7.9,75        
+319,Pulp Fiction,(1994),154 min,8.9,94        
+320,Dune,(2021),155 min,8.0,74        
+321,The Goonies,(1985),114 min,7.7,62        
+322,Spider-Man: No Way Home,(2021),148 min,8.2,71        
+323,The Wolf of Wall Street,(2013),180 min,8.2,75        
+324,American Psycho,(2000),102 min,7.6,64        
+325,The Dark Knight,(2008),152 min,9.0,84        
+326,Inception,(2010),148 min,8.8,74        
+327,Fight Club,(1999),139 min,8.8,66        
+328,Whiplash,(2014),106 min,8.5,89        
+329,The Gentlemen,(2019),113 min,7.8,51        
+330,The Blues Brothers,(1980),133 min,7.9,60        
+331,Good Will Hunting,(1997),126 min,8.3,70        
+332,Heat,(1995),170 min,8.3,76        
+333,Avengers: Endgame,(2019),181 min,8.4,78        
+334,The Lord of the Rings: The Fellowship of the Ring,(2001),178 min,8.8,92        
+335,Parasite,(2019),132 min,8.5,96        
+336,Blade Runner 2049,(2017),164 min,8.0,81        
+337,Prisoners,(2013),153 min,8.1,70        
+338,In Bruges,(2008),107 min,7.9,67        
+339,Jurassic Park,(1993),127 min,8.2,68        
+340,A Man Called Ove,(2015),116 min,7.7,70        
+341,Road to Perdition,(2002),117 min,7.7,72        
+342,Schindler's List,(1993),195 min,9.0,94        
+343,Goodfellas,(1990),145 min,8.7,91        
+344,Forrest Gump,(1994),142 min,8.8,82        
+345,Joker,(I) (2019),122 min,8.4,59        
+346,Inglourious Basterds,(2009),153 min,8.3,69        
+347,Black Swan,(2010),108 min,8.0,79        
+348,The Prestige,(2006),130 min,8.5,66        
+349,Get Out,(I) (2017),104 min,7.7,85        
+350,Indiana Jones and the Raiders of the Lost Ark,(1981),115 min,8.4,85        
+351,The Departed,(2006),151 min,8.5,85        
+352,Drive,(I) (2011),100 min,7.8,78        
+353,Green Book,(2018),130 min,8.2,69        
+354,Tombstone,(1993),130 min,7.8,50        
+355,Léon: The Professional,(1994),110 min,8.5,64        
+356,The Godfather: Part II,(1974),202 min,9.0,90        
+357,Sicario,(2015),121 min,7.6,82        
+358,Django Unchained,(2012),165 min,8.4,81        
+359,Requiem for a Dream,(2000),102 min,8.3,71        
+360,Gladiator,(2000),155 min,8.5,67        
+361,Apocalypse Now,(1979),147 min,8.5,94        
+362,Sing Street,(2016),106 min,7.9,79        
+363,The Grand Budapest Hotel,(2014),99 min,8.1,88        
+364,Gone Girl,(2014),149 min,8.1,79        
+365,The Breakfast Club,(1985),97 min,7.8,66        
+366,La La Land,(2016),128 min,8.0,94        
+367,12 Angry Men,(1957),96 min,9.0,96        
+368,Pride & Prejudice,(2005),129 min,7.8,82        
+369,Se7en,(1995),127 min,8.6,65        
+370,American Beauty,(1999),122 min,8.4,84        
+371,Hidden Figures,(2016),127 min,7.8,74        
+372,Shutter Island,(2010),138 min,8.2,63        
+373,Life Is Beautiful,(1997),116 min,8.6,59        
+374,Rogue One: A Star Wars Story,(2016),133 min,7.8,65        
+375,The Green Mile,(1999),189 min,8.6,61        
+376,The Lord of the Rings: The Return of the King,(2003),201 min,9.0,94        
+377,The Silence of the Lambs,(1991),118 min,8.6,85        
+378,The Matrix,(1999),136 min,8.7,73        
+379,Mad Max: Fury Road,(2015),120 min,8.1,90        
+380,Alien,(1979),117 min,8.5,89        
+381,Harry Potter and the Goblet of Fire,(2005),157 min,7.7,81        
+382,Back to the Future,(1985),116 min,8.5,87        
+383,Rocky,(1976),120 min,8.1,70        
+384,No Country for Old Men,(2007),122 min,8.2,92        
+385,Mission: Impossible - Fallout,(2018),147 min,7.7,86        
+386,Bohemian Rhapsody,(2018),134 min,7.9,49        
+387,Reservoir Dogs,(1992),99 min,8.3,79        
+388,Hacksaw Ridge,(2016),139 min,8.1,71        
+389,Her,(2013),126 min,8.0,91        
+390,"Three Billboards Outside Ebbing, Missouri",(2017),115 min,8.1,88        
+391,Eternal Sunshine of the Spotless Mind,(2004),108 min,8.3,89        
+392,Little Women,(2019),135 min,7.8,91        
+393,Taxi Driver,(1976),114 min,8.2,94        
+394,CODA,(2021),111 min,8.0,72        
+395,The Worst Person in the World,(2021),128 min,7.8,90        
+396,Star Wars: Episode IV - A New Hope,(1977),121 min,8.6,90        
+397,"The Good, the Bad and the Ugly",(1966),178 min,8.8,90        
+398,Harry Potter and the Deathly Hallows: Part 2,(2011),130 min,8.1,85        
+399,1917,(2019),119 min,8.2,78        
+400,Guardians of the Galaxy,(2014),121 min,8.0,76        
+401,The Dark Knight Rises,(2012),164 min,8.4,78        
+402,The Sting,(1973),129 min,8.3,83        
+403,The Father,(I) (2020),97 min,8.2,88        
+404,The Usual Suspects,(1995),106 min,8.5,77        
+405,Memento,(2000),113 min,8.4,81        
+406,The Princess Bride,(1987),98 min,8.0,77        
+407,Aliens,(1986),137 min,8.4,84        
+408,Wind River,(2017),107 min,7.7,73        
+409,American History X,(1998),119 min,8.5,62        
+410,Pirates of the Caribbean: The Curse of the Black Pearl,(2003),143 min,8.1,63        
+411,Thirteen Lives,(2022),147 min,7.8,66        
+412,Avengers: Infinity War,(2018),149 min,8.4,68        
+413,Scarface,(1983),170 min,8.3,65        
+414,Blade Runner,(1982),117 min,8.1,84        
+415,The Fifth Element,(1997),126 min,7.6,52        
+416,Harry Potter and the Deathly Hallows: Part 1,(2010),146 min,7.7,65        
+417,Ex Machina,(2014),108 min,7.7,78        
+418,Kingsman: The Secret Service,(2014),129 min,7.7,60        
+419,About Time,(I) (2013),123 min,7.8,55        
+420,The Hateful Eight,(2015),168 min,7.8,68        
+421,Oldboy,(2003),101 min,8.4,77        
+422,Saving Private Ryan,(1998),169 min,8.6,91        
+423,The Shining,(1980),146 min,8.4,66        
+424,A Clockwork Orange,(1971),136 min,8.3,77        
+425,Donnie Darko,(2001),113 min,8.0,88        
+426,Harry Potter and the Prisoner of Azkaban,(2004),142 min,7.9,82        
+427,Spider-Man: Into the Spider-Verse,(2018),117 min,8.4,87        
+428,Terminator 2: Judgment Day,(1991),137 min,8.6,75        
+429,Brokeback Mountain,(2005),134 min,7.7,87        
+430,Logan,(2017),137 min,8.1,77        
+431,The Hobbit: An Unexpected Journey,(2012),169 min,7.8,58        
+432,Ford v Ferrari,(2019),152 min,8.1,81        
+433,Mulholland Drive,(2001),147 min,7.9,86        
+434,Kantara,(2022),148 min,8.4,-
+435,Indiana Jones and the Last Crusade,(1989),127 min,8.2,65        
+436,Zodiac,(2007),157 min,7.7,79        
+437,Call Me by Your Name,(2017),132 min,7.8,94        
+438,Snatch,(2000),102 min,8.2,55        
+439,Batman Begins,(2005),140 min,8.2,70        
+440,The Handmaiden,(2016),145 min,8.1,84        
+441,Zack Snyder's Justice League,(2021),242 min,8.0,54        
+442,Shrek,(2001),90 min,7.9,84        
+443,Superbad,(2007),113 min,7.6,76        
+444,Searching,(III) (2018),102 min,7.6,71        
+445,The Big Short,(2015),130 min,7.8,81        
+446,The Irishman,(2019),209 min,7.8,94        
+447,Stand by Me,(1986),89 min,8.1,75        
+448,Dunkirk,(2017),106 min,7.8,94        
+449,The Hangover,(2009),100 min,7.7,73        
+450,Spirited Away,(2001),125 min,8.6,96        
+451,The Big Lebowski,(1998),117 min,8.1,71        
+452,The Truman Show,(1998),103 min,8.2,90        
+453,Star Wars: Episode VII - The Force Awakens,(2015),138 min,7.8,80        
+454,Arrival,(II) (2016),116 min,7.9,81        
+455,Amadeus,(1984),160 min,8.4,88        
+456,The Lord of the Rings: The Two Towers,(2002),179 min,8.8,87        
+457,The Lion King,(1994),88 min,8.5,88        
+458,The Terminator,(1984),107 min,8.1,84        
+459,Catch Me If You Can,(2002),141 min,8.1,75        
+460,Sin City,(2005),124 min,8.0,74        
+461,Primal Fear,(1996),129 min,7.7,47        
+462,The Notebook,(2004),123 min,7.8,53        
+463,The Sixth Sense,(1999),107 min,8.2,64        
+464,Home Alone,(1990),103 min,7.7,63        
+465,One Flew Over the Cuckoo's Nest,(1975),133 min,8.7,84        
+466,The Sound of Music,(1965),172 min,8.1,63        
+467,The Revenant,(2015),156 min,8.0,76        
+468,Die Hard,(1988),132 min,8.2,72        
+469,Braveheart,(1995),178 min,8.4,68        
+470,The Hunt,(2012),115 min,8.3,77        
+471,Trainspotting,(1996),93 min,8.1,83        
+472,Ratatouille,(2007),111 min,8.1,96        
+473,Ocean's Eleven,(2001),116 min,7.7,74        
+474,Kill Bill: Vol. 1,(2003),111 min,8.2,69        
+475,2001: A Space Odyssey,(1968),149 min,8.3,84        
+476,City of God,(2002),130 min,8.6,79        
+477,This Is Spinal Tap,(1984),82 min,7.9,92        
+478,Airplane!,(1980),88 min,7.7,78        
+479,True Romance,(1993),119 min,7.9,59        
+480,Ghostbusters,(1984),105 min,7.8,71        
+481,There Will Be Blood,(2007),158 min,8.2,93        
+482,Minority Report,(2002),145 min,7.6,80        
+483,Remember the Titans,(2000),113 min,7.8,48        
+484,Deadpool,(2016),108 min,8.0,65        
+485,300,(2006),117 min,7.6,52        
+486,Kick-Ass,(2010),117 min,7.6,66        
+487,The Avengers,(2012),143 min,8.0,69        
+488,Casino Royale,(2006),144 min,8.0,80        
+489,The Perks of Being a Wallflower,(2012),103 min,7.9,67        
+490,Jojo Rabbit,(2019),108 min,7.9,58        
+491,Full Metal Jacket,(1987),116 min,8.3,76        
+492,Watchmen,(2009),162 min,7.6,56        
+493,Come and See,(1985),142 min,8.4,-
+494,The Pianist,(2002),150 min,8.5,85        
+495,JFK,(1991),189 min,8.0,72        
+496,Office Space,(1999),89 min,7.6,68        
+497,Almost Famous,(2000),122 min,7.9,90        
+498,The Thing,(1982),109 min,8.2,57        
+499,Hamilton,(2020),160 min,8.4,89        
+500,Boogie Nights,(1997),155 min,7.9,85        
+501,Nightcrawler,(2014),117 min,7.8,76        
+502,The Intouchables,(2011),112 min,8.5,57        
+503,Finding Nemo,(2003),100 min,8.2,90        
+504,Once Upon a Time in America,(1984),229 min,8.3,75        
+505,The Social Network,(2010),120 min,7.8,95        
+506,The Martian,(2015),144 min,8.0,80        
+507,Coco,(I) (2017),105 min,8.4,81        
+508,Jaws,(1975),124 min,8.1,87        
+509,Iron Man,(2008),126 min,7.9,79        
+510,The Help,(2011),146 min,8.1,62        
+511,Zootopia,(2016),108 min,8.0,78        
+512,Moana,(I) (2016),107 min,7.6,81        
+513,Fargo,(1996),98 min,8.1,85        
+514,The Imitation Game,(2014),114 min,8.0,71        
+515,The Blind Side,(2009),129 min,7.6,53        
+516,Black Hawk Down,(2001),144 min,7.7,74        
+517,Once Upon a Time in the West,(1968),165 min,8.5,80        
+518,Dead Poets Society,(1989),128 min,8.1,79        
+519,The Exorcist,(1973),122 min,8.1,81        
+520,Hell or High Water,(II) (2016),102 min,7.6,88        
+521,The Girl with the Dragon Tattoo,(2011),158 min,7.8,71        
+522,Blue Is the Warmest Colour,(2013),180 min,7.7,90        
+523,Edward Scissorhands,(1990),105 min,7.9,74        
+524,Kung Fu Panda,(2008),92 min,7.6,74        
+525,Casino,(1995),178 min,8.2,73        
+526,Inside Out,(I) (2015),95 min,8.2,94        
+527,Dances with Wolves,(1990),181 min,8.0,72        
+528,Toy Story,(1995),81 min,8.3,96        
+529,Little Miss Sunshine,(2006),101 min,7.8,80        
+530,Chinatown,(1974),130 min,8.2,92        
+531,Apocalypto,(2006),139 min,7.8,68        
+532,Edge of Tomorrow,(2014),113 min,7.9,71        
+533,Skyfall,(2012),143 min,7.8,81        
+534,Deadpool 2,(2018),119 min,7.7,66        
+535,Howl's Moving Castle,(2004),119 min,8.2,80        
+536,Ferris Bueller's Day Off,(1986),103 min,7.8,61        
+537,Star Trek,(2009),127 min,7.9,82        
+538,Atonement,(2007),123 min,7.8,85        
+539,Thor: Ragnarok,(2017),130 min,7.9,74        
+540,E.T. the Extra-Terrestrial,(1982),115 min,7.9,91        
+541,Lion,(2016),118 min,8.0,69        
+542,Spotlight,(I) (2015),129 min,8.1,93        
+543,Casablanca,(1942),102 min,8.5,100        
+544,Manchester by the Sea,(2016),137 min,7.8,96        
+545,Pan's Labyrinth,(2006),118 min,8.2,98        
+546,Guardians of the Galaxy Vol. 2,(2017),136 min,7.6,67        
+547,The Wizard of Oz,(1939),102 min,8.1,92        
+548,Psycho,(1960),109 min,8.5,97        
+549,Before Sunrise,(1995),101 min,8.1,77        
+550,What's Eating Gilbert Grape,(1993),118 min,7.7,73        
+551,The Game,(1997),129 min,7.7,63        
+552,Blue Velvet,(1986),120 min,7.7,76        
+553,Your Name.,(2016),106 min,8.4,79        
+554,In the Heat of the Night,(1967),110 min,7.9,76        
+555,Star Wars: Episode V - The Empire Strikes Back,(1980),124 min,8.7,82        
+556,The Deer Hunter,(1978),183 min,8.1,86        
+557,Another Round,(2020),117 min,7.7,79        
+558,"Lock, Stock and Two Smoking Barrels",(1998),107 min,8.2,66        
+559,500 Days of Summer,(2009),95 min,7.7,76        
+560,Star Wars: Episode VI - Return of the Jedi,(1983),131 min,8.3,58        
+561,The Hobbit: The Desolation of Smaug,(2013),161 min,7.8,66        
+562,Into the Wild,(2007),148 min,8.1,73        
+563,Room,(I) (2015),118 min,8.1,86        
+564,The Incredibles,(2004),115 min,8.0,90        
+565,My Cousin Vinny,(1992),120 min,7.6,68        
+566,Memories of Murder,(2003),132 min,8.1,82        
+567,A Beautiful Mind,(2001),135 min,8.2,72        
+568,Groundhog Day,(1993),101 min,8.1,72        
+569,A Star Is Born,(2018),136 min,7.6,88        
+570,It's a Wonderful Life,(1946),130 min,8.6,89        
+571,12 Years a Slave,(2013),134 min,8.1,96        
+572,Predator,(1987),107 min,7.8,47        
+573,The Curious Case of Benjamin Button,(2008),166 min,7.8,70        
+574,Birdman or (The Unexpected Virtue of Ignorance),(2014),119 min,7.7,87        
+575,When Harry Met Sally...,(1989),95 min,7.7,76        
+576,Warrior,(2011),140 min,8.2,71        
+577,Stardust,(2007),127 min,7.6,66        
+578,3 Idiots,(2009),170 min,8.4,67        
+579,True Grit,(2010),110 min,7.6,80        
+580,Moneyball,(2011),133 min,7.6,87        
+581,Saw,(2004),103 min,7.6,46        
+582,RoboCop,(1987),102 min,7.6,70        
+583,"O Brother, Where Art Thou?",(2000),107 min,7.7,69        
+584,Beauty and the Beast,(1991),84 min,8.0,95        
+585,The Fugitive,(1993),130 min,7.8,87        
+586,Gone with the Wind,(1939),238 min,8.2,97        
+587,A Few Good Men,(1992),138 min,7.7,62        
+588,Marriage Story,(2019),137 min,7.9,94        
+589,Crash,(I) (2004),112 min,7.8,66        
+590,The Last Samurai,(2003),154 min,7.8,55        
+591,Portrait of a Lady on Fire,(2019),122 min,8.1,95        
+592,The Untouchables,(1987),119 min,7.8,79        
+593,Amélie,(2001),122 min,8.3,69        
+594,Lost in Translation,(2003),102 min,7.7,91        
+595,Blazing Saddles,(1974),93 min,7.7,73        
+596,Incendies,(2010),131 min,8.3,80        
+597,Inside Man,(2006),129 min,7.6,76        
+598,WALL·E,(2008),98 min,8.4,95        
+599,The Invisible Man,(1933),71 min,7.6,87        
+600,Sound of Metal,(2019),120 min,7.7,82        
+601,Tangled,(2010),100 min,7.7,71        
+602,Gravity,(2013),91 min,7.7,96        
+603,Platoon,(1986),120 min,8.1,92        
+604,Star Wars: Episode III - Revenge of the Sith,(2005),140 min,7.6,68        
+605,Cast Away,(2000),143 min,7.8,73        
+606,"Monsters, Inc.",(2001),92 min,8.1,79        
+607,Mr. Nobody,(2009),141 min,7.8,63        
+608,Empire of the Sun,(1987),153 min,7.7,62        
+609,L.A. Confidential,(1997),138 min,8.2,91        
+610,Deliverance,(1972),109 min,7.7,80        
+611,Clerks,(1994),92 min,7.7,70        
+612,The Machinist,(2004),101 min,7.7,61        
+613,Children of Men,(2006),109 min,7.9,84        
+614,Taken,(I) (2008),90 min,7.8,51        
+615,Training Day,(2001),122 min,7.7,69        
+616,V for Vendetta,(2005),132 min,8.2,62        
+617,Hachi: A Dog's Tale,(2009),93 min,8.1,-
+618,The Naked Gun: From the Files of Police Squad!,(1988),85 min,7.6,76        
+619,Y tu mamá también,(2001),106 min,7.7,89        
+620,The Lives of Others,(2006),137 min,8.4,89        
+621,The Butterfly Effect,(2004),113 min,7.6,30        
+622,Doctor Zhivago,(1965),197 min,7.9,69        
+623,The Sandlot,(1993),101 min,7.8,55        
+624,Up,(2009),96 min,8.3,88        
+625,Captain America: Civil War,(2016),147 min,7.8,75        
+626,Hot Fuzz,(2007),121 min,7.8,81        
+627,How to Train Your Dragon,(2010),98 min,8.1,75        
+628,Halloween,(1978),91 min,7.7,87        
+629,Gone Baby Gone,(2007),114 min,7.6,72        
+630,The Invisible Guest,(2016),106 min,8.0,-
+631,The Last of the Mohicans,(1992),112 min,7.7,76        
+632,Willy Wonka & the Chocolate Factory,(1971),100 min,7.8,67        
+633,Coraline,(2009),100 min,7.7,80        
+634,"Crouching Tiger, Hidden Dragon",(2000),120 min,7.9,94        
+635,Soul,(2020),100 min,8.0,83        
+636,What We Do in the Shadows,(2014),86 min,7.6,76        
+637,The Pursuit of Happyness,(2006),117 min,8.0,64        
+638,The Bourne Identity,(2002),119 min,7.9,68        
+639,Donnie Brasco,(1997),127 min,7.7,76        
+640,Silver Linings Playbook,(2012),122 min,7.7,81        
+641,The Magnificent Seven,(1960),128 min,7.7,74        
+642,X-Men: First Class,(2011),131 min,7.7,65        
+643,Unforgiven,(1992),130 min,8.2,85        
+644,Mystic River,(2003),138 min,7.9,84        
+645,Magnolia,(1999),188 min,8.0,78        
+646,Lawrence of Arabia,(1962),218 min,8.3,100        
+647,Aladdin,(1992),90 min,8.0,86        
+648,Grave of the Fireflies,(1988),89 min,8.5,94        
+649,Wonder,(I) (2017),113 min,7.9,66        
+650,Downfall,(2004),156 min,8.2,82        
+651,Fantastic Mr. Fox,(2009),87 min,7.9,83        
+652,12 Monkeys,(1995),129 min,8.0,74        
+653,First Blood,(1982),93 min,7.7,61        
+654,The Boy in the Striped Pajamas,(2008),94 min,7.7,55        
+655,The Fighter,(I) (2010),116 min,7.8,79        
+656,The Count of Monte Cristo,(2002),131 min,7.7,61        
+657,Slumdog Millionaire,(2008),120 min,8.0,84        
+658,Back to the Future Part II,(1989),108 min,7.8,57        
+659,The Lego Movie,(2014),100 min,7.7,83        
+660,Seven Samurai,(1954),207 min,8.6,98        
+661,Captain America: The Winter Soldier,(2014),136 min,7.8,70        
+662,Dallas Buyers Club,(2013),117 min,7.9,77        
+663,Some Like It Hot,(1959),121 min,8.2,98        
+664,Rain Man,(1988),133 min,8.0,65        
+665,All Quiet on the Western Front,(1930),152 min,8.1,91        
+666,The Thin Red Line,(1998),170 min,7.6,78        
+667,Capernaum,(2018),126 min,8.4,75        
+668,Rush,(I) (2013),123 min,8.1,74        
+669,District 9,(2009),112 min,7.9,81        
+670,Perfect Blue,(1997),81 min,8.0,67        
+671,The Graduate,(1967),106 min,8.0,83        
+672,Princess Mononoke,(1997),134 min,8.4,76        
+673,Life of Pi,(2012),127 min,7.9,79        
+674,The Royal Tenenbaums,(2001),110 min,7.6,76        
+675,Big Fish,(2003),125 min,8.0,58        
+676,Midnight in Paris,(2011),94 min,7.7,81        
+677,Blood Diamond,(2006),143 min,8.0,64        
+678,Sense and Sensibility,(1995),136 min,7.7,84        
+679,Shaun of the Dead,(2004),99 min,7.9,76        
+680,Argo,(2012),120 min,7.7,86        
+681,Drishyam,(2015),163 min,8.2,-
+682,Lucky Number Slevin,(2006),110 min,7.7,53        
+683,Mary Poppins,(1964),139 min,7.8,88        
+684,Mulan,(1998),87 min,7.6,71        
+685,X-Men: Days of Future Past,(2014),132 min,7.9,75        
+686,Citizen Kane,(1941),119 min,8.3,100        
+687,Gran Torino,(2008),116 min,8.1,72        
+688,Isle of Dogs,(2018),101 min,7.8,82        
+689,3:10 to Yuma,(2007),122 min,7.7,76        
+690,Toy Story 4,(2019),100 min,7.7,84        
+691,Toy Story 3,(2010),103 min,8.3,92        
+692,Million Dollar Baby,(2004),132 min,8.1,86        
+693,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,(1964),95 min,8.4,97        
+694,Despicable Me,(2010),95 min,7.6,72        
+695,Serenity,(2005),119 min,7.8,74        
+696,In the Mood for Love,(2000),98 min,8.1,86        
+697,The Mitchells vs the Machines,(2021),114 min,7.6,81        
+698,Vertigo,(1958),128 min,8.3,100        
+699,Scent of a Woman,(1992),156 min,8.0,59        
+700,Raging Bull,(1980),129 min,8.2,89        
+701,Captain Fantastic,(2016),118 min,7.8,72        
+702,I Saw the Devil,(2010),144 min,7.8,67        
+703,Monty Python and the Holy Grail,(1975),91 min,8.2,91        
+704,Cinema Paradiso,(1988),155 min,8.5,80        
+705,Misery,(1990),107 min,7.8,75        
+706,The Fault in Our Stars,(2014),126 min,7.7,69        
+707,A Bronx Tale,(1993),121 min,7.8,80        
+708,North by Northwest,(1959),136 min,8.3,98        
+709,American Gangster,(2007),157 min,7.8,76        
+710,Rear Window,(1954),112 min,8.5,100        
+711,The Fly,(1986),96 min,7.6,79        
+712,The King's Speech,(2010),118 min,8.0,88        
+713,As Good as It Gets,(1997),139 min,7.7,67        
+714,The Holy Mountain,(1973),114 min,7.8,76        
+715,Gattaca,(1997),106 min,7.8,64        
+716,Kill Bill: Vol. 2,(2004),137 min,8.0,83        
+717,The Secret in Their Eyes,(2009),129 min,8.2,80        
+718,Apollo 13,(I) (1995),140 min,7.7,77        
+719,Big Hero 6,(2014),102 min,7.8,74        
+720,Stalker,(1979),162 min,8.1,-
+721,Wreck-It Ralph,(2012),101 min,7.7,72        
+722,Rosemary's Baby,(1968),137 min,8.0,96        
+723,Close Encounters of the Third Kind,(1977),138 min,7.6,90        
+724,Who Framed Roger Rabbit,(1988),104 min,7.7,83        
+725,Metropolis,(1927),153 min,8.3,98        
+726,My Neighbor Totoro,(1988),86 min,8.1,86        
+727,Wild Tales,(2014),122 min,8.1,77        
+728,Young Frankenstein,(1974),106 min,8.0,80        
+729,Paddington 2,(2017),103 min,7.8,88        
+730,Star Trek II: The Wrath of Khan,(1982),113 min,7.7,68        
+731,Walk the Line,(2005),136 min,7.8,72        
+732,Moon,(2009),97 min,7.8,67        
+733,The Boat,(1981),149 min,8.4,86        
+734,The Elephant Man,(1980),124 min,8.2,78        
+735,The Others,(2001),104 min,7.6,74        
+736,Man on Fire,(2004),146 min,7.7,47        
+737,The Wrestler,(2008),109 min,7.9,80        
+738,Singin' in the Rain,(1952),103 min,8.3,99        
+739,Planet of the Apes,(1968),112 min,8.0,79        
+740,Eastern Promises,(2007),100 min,7.6,83        
+741,The Boondock Saints,(1999),108 min,7.7,44        
+742,Moonrise Kingdom,(2012),94 min,7.8,84        
+743,Captain Phillips,(2013),134 min,7.8,82        
+744,Before Sunset,(2004),80 min,8.1,90        
+745,Barry Lyndon,(1975),185 min,8.1,89        
+746,Boyz n the Hood,(1991),112 min,7.8,76        
+747,Boyhood,(I) (2014),165 min,7.9,100        
+748,Evil Dead II,(1987),84 min,7.7,72        
+749,Glengarry Glen Ross,(1992),100 min,7.7,82        
+750,Dark City,(1998),100 min,7.6,66        
+751,Lethal Weapon,(1987),109 min,7.6,68        
+752,Butch Cassidy and the Sundance Kid,(1969),110 min,8.0,66        
+753,Baahubali: The Beginning,(2015),159 min,8.0,-
+754,The Bourne Supremacy,(2004),108 min,7.7,73        
+755,To Kill a Mockingbird,(1962),129 min,8.3,88        
+756,Straight Outta Compton,(2015),147 min,7.8,72        
+757,The Theory of Everything,(2014),123 min,7.7,71        
+758,Being John Malkovich,(1999),113 min,7.8,90        
+759,Akira,(1988),124 min,8.0,67        
+760,The Great Escape,(1963),172 min,8.2,86        
+761,The Iron Giant,(1999),86 min,8.1,85        
+762,Judgment at Nuremberg,(1961),179 min,8.3,60        
+763,Dog Day Afternoon,(1975),125 min,8.0,86        
+764,The Raid: Redemption,(2011),101 min,7.6,73        
+765,Sita Ramam,(2022),163 min,8.6,-
+766,The Birds,(1963),119 min,7.6,90        
+767,Flipped,(I) (2010),90 min,7.7,45        
+768,The Skin I Live In,(2011),120 min,7.6,70        
+769,Do the Right Thing,(1989),120 min,7.9,93        
+770,The Nightmare Before Christmas,(1993),76 min,7.9,82        
+771,Star Trek Into Darkness,(2013),132 min,7.7,72        
+772,End of Watch,(2012),109 min,7.6,68        
+773,Carlito's Way,(1993),144 min,7.9,66        
+774,Midnight Cowboy,(1969),113 min,7.8,79        
+775,The Verdict,(1982),129 min,7.7,77        
+776,Fiddler on the Roof,(1971),181 min,8.0,67        
+777,Dogville,(2003),178 min,8.0,59        
+778,The Road Warrior,(1981),96 min,7.6,77        
+779,Toy Story 2,(1999),92 min,7.9,88        
+780,The Red Shoes,(1948),135 min,8.1,-
+781,La haine,(1995),98 min,8.1,-
+782,Fried Green Tomatoes,(1991),130 min,7.7,64        
+783,The Trial of the Chicago 7,(2020),129 min,7.7,76        
+784,The Killing Fields,(1984),141 min,7.8,76        
+785,Dawn of the Planet of the Apes,(2014),130 min,7.6,79        
+786,Adaptation.,(2002),115 min,7.7,83        
+787,Roma,(2018),135 min,7.7,96        
+788,Witness for the Prosecution,(1957),116 min,8.4,76        
+789,Spartacus,(1960),197 min,7.9,87        
+790,Before Midnight,(2013),109 min,7.9,94        
+791,Brazil,(1985),132 min,7.9,84        
+792,Happiness,(1998),134 min,7.7,81        
+793,Serpico,(1973),130 min,7.7,81        
+794,Shoplifters,(2018),121 min,7.9,93        
+795,Let the Right One In,(2008),114 min,7.9,82        
+796,The Conversation,(1974),113 min,7.8,87        
+797,The Ten Commandments,(1956),220 min,7.9,-
+798,"Blood In, Blood Out",(1993),180 min,7.9,47        
+799,The Day of the Jackal,(1973),143 min,7.8,80        
+800,Billy Elliot,(2000),110 min,7.7,74        
+801,Die Hard with a Vengeance,(1995),128 min,7.6,58        
+802,Philadelphia,(1993),125 min,7.7,66        
+803,Life of Brian,(1979),94 min,8.0,77        
+804,Sunset Blvd.,(1950),110 min,8.4,-
+805,Awakenings,(1990),121 min,7.8,74        
+806,Hunt for the Wilderpeople,(2016),101 min,7.8,81        
+807,The Girl with the Dragon Tattoo,(2009),152 min,7.8,76        
+808,The Jungle Book,(1967),78 min,7.6,65        
+809,A Christmas Story,(1983),93 min,7.9,77        
+810,Amores Perros,(2000),154 min,8.1,83        
+811,Ghost in the Shell,(1995),83 min,7.9,76        
+812,The French Connection,(1971),104 min,7.7,94        
+813,"Paris, Texas",(1984),145 min,8.1,81        
+814,Charade,(1963),113 min,7.9,83        
+815,Chungking Express,(1994),102 min,8.0,78        
+816,High Noon,(1952),85 min,8.0,89        
+817,Ben-Hur,(1959),212 min,8.1,90        
+818,The Longest Day,(1962),178 min,7.7,75        
+819,Dark Waters,(2019),126 min,7.6,73        
+820,The Apartment,(1960),125 min,8.3,94        
+821,How to Train Your Dragon 2,(2014),102 min,7.8,77        
+822,Dangal,(2016),161 min,8.3,-
+823,The Seventh Seal,(1957),96 min,8.1,88        
+824,Glory,(1989),122 min,7.8,78        
+825,Naked,(1993),131 min,7.7,85        
+826,The Man from Earth,(2007),87 min,7.9,-
+827,The Man Who Shot Liberty Valance,(1962),123 min,8.1,94        
+828,Match Point,(2005),124 min,7.6,72        
+829,The Raid 2,(2014),150 min,7.9,71        
+830,The Bourne Ultimatum,(2007),115 min,8.0,85        
+831,The Fall,(I) (2006),117 min,7.8,64        
+832,The Dirty Dozen,(1967),150 min,7.7,73        
+833,Goldfinger,(1964),110 min,7.7,87        
+834,A Fistful of Dollars,(1964),99 min,7.9,65        
+835,Klaus,(2019),96 min,8.2,65        
+836,Sling Blade,(1996),135 min,8.0,84        
+837,A Silent Voice: The Movie,(2016),130 min,8.1,78        
+838,Paths of Glory,(1957),88 min,8.4,90        
+839,For a Few Dollars More,(1965),132 min,8.2,74        
+840,8½,(1963),138 min,8.0,92        
+841,50/50,(2011),100 min,7.6,72        
+842,Annie Hall,(1977),93 min,8.0,92        
+843,Snow White and the Seven Dwarfs,(1937),83 min,7.6,96        
+844,The King of Comedy,(1982),109 min,7.8,73        
+845,A Separation,(2011),123 min,8.3,95        
+846,Harold and Maude,(1971),91 min,7.9,62        
+847,Persona,(1966),83 min,8.1,86        
+848,Dirty Harry,(1971),102 min,7.7,87        
+849,Harakiri,(1962),133 min,8.6,85        
+850,Rio Bravo,(1959),141 min,8.0,93        
+851,The Taking of Pelham One Two Three,(1974),104 min,7.6,68        
+852,Ran,(1985),162 min,8.2,96        
+853,After Hours,(I) (1985),97 min,7.6,90        
+854,Kiki's Delivery Service,(1989),103 min,7.8,83        
+855,The Artist,(I) (2011),100 min,7.9,89        
+856,Roman Holiday,(1953),118 min,8.0,78        
+857,Cool Hand Luke,(1967),127 min,8.1,92        
+858,White Heat,(1949),114 min,8.1,-
+859,The Hustler,(1961),134 min,8.0,90        
+860,The Great Beauty,(2013),141 min,7.7,86        
+861,Ponyo,(2008),101 min,7.6,86        
+862,All the President's Men,(1976),138 min,7.9,84        
+863,The Best Offer,(2013),131 min,7.8,49        
+864,M,(1931),99 min,8.3,-
+865,Bonnie and Clyde,(1967),111 min,7.7,86        
+866,Detachment,(2011),98 min,7.7,52        
+867,21 Grams,(2003),124 min,7.6,70        
+868,Tumbbad,(2018),104 min,8.2,-
+869,This Is England,(2006),101 min,7.7,86        
+870,Ikiru,(1952),143 min,8.3,91        
+871,The Searchers,(1956),119 min,7.9,94        
+872,Kung Fu Hustle,(2004),99 min,7.7,78        
+873,Gandhi,(1982),191 min,8.0,79        
+874,In the Name of the Father,(1993),133 min,8.1,84        
+875,Dawn of the Dead,(1978),127 min,7.8,71        
+876,The Color Purple,(1985),154 min,7.7,78        
+877,The Outlaw Josey Wales,(1976),135 min,7.8,69        
+878,Drishyam 2,(2021),152 min,8.4,-
+879,The Remains of the Day,(1993),134 min,7.8,86        
+880,Rushmore,(1998),93 min,7.6,86        
+881,Malcolm X,(1992),202 min,7.7,73        
+882,The Third Man,(1949),93 min,8.1,97        
+883,Network,(1976),121 min,8.1,83        
+884,Ray,(I) (2004),152 min,7.7,73        
+885,A Streetcar Named Desire,(1951),122 min,7.9,97        
+886,My Fair Lady,(1964),170 min,7.8,95        
+887,Hotel Rwanda,(2004),121 min,8.1,79        
+888,The Last Picture Show,(1971),118 min,8.0,93        
+889,Enter the Dragon,(1973),102 min,7.6,83        
+890,Demon Slayer the Movie: Mugen Train,(2020),117 min,8.2,72        
+891,Vikram,(2022),175 min,8.3,-
+892,Rope,(1948),80 min,7.9,73        
+893,Cabaret,(1972),124 min,7.8,80        
+894,The Bridge on the River Kwai,(1957),161 min,8.2,87        
+895,Nosferatu,(1922),94 min,7.9,-
+896,The Name of the Rose,(1986),130 min,7.7,54        
+897,Mississippi Burning,(1988),128 min,7.8,65        
+898,The Wild Bunch,(1969),135 min,7.9,98        
+899,Fantastic Planet,(1973),72 min,7.7,73        
+900,Baahubali 2: The Conclusion,(2017),167 min,8.2,-
+901,Three Colors: Blue,(1993),94 min,7.9,85        
+902,Belle de Jour,(1967),100 min,7.7,-
+903,Papillon,(1973),151 min,8.0,58        
+904,Infernal Affairs,(2002),101 min,8.0,75        
+905,Solaris,(1972),167 min,8.0,93        
+906,Seven Pounds,(2008),123 min,7.6,36        
+907,Togo,(2019),113 min,7.9,69        
+908,The Maltese Falcon,(1941),100 min,8.0,97        
+909,"Quo Vadis, Aida?",(2020),101 min,8.0,97        
+910,Ip Man,(2008),106 min,8.0,59        
+911,The Insider,(1999),157 min,7.8,84        
+912,Night of the Living Dead,(1968),96 min,7.8,89        
+913,Finding Neverland,(2004),106 min,7.7,67        
+914,The Manchurian Candidate,(1962),126 min,7.9,94        
+915,The Day the Earth Stood Still,(1951),92 min,7.8,-
+916,Once,(I) (2007),86 min,7.8,89        
+917,K.G.F: Chapter 2,(2022),168 min,8.3,-
+918,Changeling,(2008),141 min,7.8,63        
+919,Sabrina,(1954),113 min,7.6,72        
+920,Kramer vs. Kramer,(1979),105 min,7.8,77        
+921,Being There,(1979),130 min,8.0,83        
+922,On the Waterfront,(1954),108 min,8.1,91        
+923,La Dolce Vita,(1960),174 min,8.0,95        
+924,Rashomon,(1950),88 min,8.2,98        
+925,The Night of the Hunter,(1955),92 min,8.0,99        
+926,Pink Floyd: The Wall,(1982),95 min,8.0,47        
+927,Ordinary People,(1980),124 min,7.7,86        
+928,Cinderella Man,(2005),144 min,8.0,69        
+929,The Right Stuff,(1983),193 min,7.8,91        
+930,From Here to Eternity,(1953),118 min,7.6,85        
+931,Jai Bhim,(2021),164 min,8.8,-
+932,Hero,(2002),120 min,7.9,85        
+933,Rebecca,(1940),130 min,8.1,86        
+934,Double Indemnity,(1944),107 min,8.3,95        
+935,"South Park: Bigger, Longer & Uncut",(1999),81 min,7.7,73        
+936,The Last King of Scotland,(2006),123 min,7.6,74        
+937,The Last Emperor,(1987),163 min,7.7,76        
+938,Dancer in the Dark,(2000),140 min,7.9,61        
+939,25th Hour,(2002),135 min,7.6,69        
+940,Mommy,(I) (2014),139 min,8.0,74        
+941,All That Jazz,(1979),123 min,7.8,72        
+942,Dial M for Murder,(1954),105 min,8.2,75        
+943,What Ever Happened to Baby Jane?,(1962),134 min,8.0,75        
+944,Patton,(1970),172 min,7.9,91        
+945,Hamlet,(1996),242 min,7.8,-
+946,Castle in the Sky,(1986),125 min,8.0,78        
+947,Ed Wood,(1994),127 min,7.8,70        
+948,Paper Moon,(1973),102 min,8.1,77        
+949,Paprika,(2006),90 min,7.7,81        
+950,The Celebration,(1998),105 min,8.1,82        
+951,Miller's Crossing,(1990),115 min,7.7,66        
+952,Perfect Strangers,(2016),96 min,7.7,-
+953,Badlands,(1973),94 min,7.7,93        
+954,Zulu,(1964),138 min,7.7,77        
+955,Breaking the Waves,(1996),159 min,7.8,79        
+956,The Bridges of Madison County,(1995),135 min,7.6,69        
+957,Mary and Max,(2009),92 min,8.1,-
+958,Barton Fink,(1991),116 min,7.6,69        
+959,Open Your Eyes,(1997),119 min,7.7,-
+960,Like Stars on Earth,(2007),165 min,8.3,-
+961,Stagecoach,(1939),96 min,7.8,93        
+962,Pride,(I) (2014),119 min,7.8,79        
+963,Me and Earl and the Dying Girl,(2015),105 min,7.7,74        
+964,Notorious,(1946),102 min,7.9,100        
+965,All About Eve,(1950),138 min,8.2,98        
+966,My Left Foot,(1989),103 min,7.9,97        
+967,Nausicaä of the Valley of the Wind,(1984),117 min,8.0,86        
+968,King Kong,(1933),100 min,7.9,90        
+969,Waking Life,(2001),99 min,7.7,83        
+970,The Best Years of Our Lives,(1946),170 min,8.1,93        
+971,The Treasure of the Sierra Madre,(1948),126 min,8.2,98        
+972,The Wind Rises,(2013),126 min,7.7,83        
+973,Days of Heaven,(1978),94 min,7.8,93        
+974,The Great Dictator,(1940),125 min,8.4,-
+975,Run Lola Run,(1998),80 min,7.7,77        
+976,Rebel Without a Cause,(1955),111 min,7.6,89        
+977,Wings of Desire,(1987),128 min,8.0,79        
+978,Gaslight,(1944),114 min,7.8,78        
+979,Mother,(2009),129 min,7.8,79        
+980,The Conformist,(1970),113 min,7.9,100        
+981,Modern Times,(1936),87 min,8.5,96        
+982,The Grapes of Wrath,(1940),129 min,8.1,96        
+983,Neon Genesis Evangelion: The End of Evangelion,(1997),87 min,8.0,-
+984,October Sky,(1999),108 min,7.8,71        
+985,The Quiet Man,(1952),129 min,7.7,85        
+986,It Happened One Night,(1934),105 min,8.1,87        
+987,Kubo and the Two Strings,(2016),101 min,7.7,84        
+988,Three Colors: Red,(1994),99 min,8.1,100        
+989,Kaithi,(2019),145 min,8.5,-
+990,The Straight Story,(1999),112 min,8.0,86        
+991,The Adventures of Robin Hood,(1938),102 min,7.9,97        
+992,Wolfwalkers,(2020),103 min,8.0,87        
+993,PK,(2014),153 min,8.1,-
+994,United 93,(2006),111 min,7.6,90        
+995,Anatomy of a Murder,(1959),161 min,8.0,95        
+996,Once Were Warriors,(1994),102 min,7.9,77        
+997,Breathless,(1960),90 min,7.7,-
+998,I Am Sam,(2001),132 min,7.6,28        
+999,Fanny and Alexander,(1982),188 min,8.1,100        
+1000,Bicycle Thieves,(1948),89 min,8.3,-
+1001,The Lion in Winter,(1968),134 min,7.9,-
+1002,Short Term 12,(2013),96 min,7.9,82        
+1003,Strangers on a Train,(1951),101 min,7.9,88        
+1004,Freaks,(1932),64 min,7.8,80        
+1005,Letters from Iwo Jima,(2006),141 min,7.9,89        
+1006,The Big Sleep,(1946),114 min,7.9,86        
+1007,Beasts of No Nation,(2015),137 min,7.7,79        
+1008,The Philadelphia Story,(1940),112 min,7.9,96        
+1009,Frankenstein,(1931),70 min,7.8,91        
+1010,Nebraska,(2013),115 min,7.7,86        
+1011,The Man from Nowhere,(2010),119 min,7.7,-
+1012,The Man Who Would Be King,(1975),129 min,7.8,91        
+1013,Whisper of the Heart,(1995),111 min,7.9,75        
+1014,The Cabinet of Dr. Caligari,(1920),67 min,8.0,-
+1015,In Cold Blood,(1967),134 min,7.9,89        
+1016,The Chaser,(2008),125 min,7.8,64        
+1017,Who's Afraid of Virginia Woolf?,(1966),131 min,8.0,75        
+1018,Elite Squad,(2007),115 min,8.0,33        
+1019,Black Book,(2006),145 min,7.7,71        
+1020,Gangs of Wasseypur,(2012),321 min,8.2,89        
+1021,Mirror,(1975),107 min,8.0,80        
+1022,Miracle in Cell No. 7,(2019),132 min,8.2,-
+1023,Lilya 4-Ever,(2002),109 min,7.8,82        
+1024,777 Charlie,(2022),136 min,8.9,-
+1025,The Thin Man,(1934),91 min,7.9,86        
+1026,Guess Who's Coming to Dinner,(1967),108 min,7.8,63        
+1027,East of Eden,(1955),118 min,7.8,72        
+1028,Touch of Evil,(1958),95 min,8.0,99        
+1029,The 400 Blows,(1959),99 min,8.1,-
+1030,Short Cuts,(1993),188 min,7.7,81        
+1031,Amour,(2012),127 min,7.9,95        
+1032,The African Queen,(1951),105 min,7.7,91        
+1033,Fantasia,(1940),124 min,7.7,96        
+1034,Andhadhun,(2018),139 min,8.2,-
+1035,Control,(2007),122 min,7.6,78        
+1036,Yojimbo,(1961),110 min,8.2,93        
+1037,The Odd Couple,(1968),105 min,7.6,86        
+1038,City Lights,(1931),87 min,8.5,99        
+1039,The Leopard,(1963),186 min,8.0,100        
+1040,Secrets & Lies,(1996),136 min,8.0,91        
+1041,Leviathan,(2014),140 min,7.6,92        
+1042,The Vanishing,(1988),107 min,7.7,-
+1043,The Double Life of Véronique,(1991),98 min,7.7,86        
+1044,Head-On,(2004),121 min,7.9,78        
+1045,Loving Vincent,(2017),94 min,7.8,62        
+1046,Hannah and Her Sisters,(1986),107 min,7.8,90        
+1047,Philomena,(2013),98 min,7.6,77        
+1048,A Very Long Engagement,(2004),133 min,7.6,76        
+1049,High and Low,(1963),143 min,8.4,90        
+1050,Porco Rosso,(1992),94 min,7.7,83        
+1051,Good Bye Lenin!,(2003),121 min,7.7,68        
+1052,Bringing Up Baby,(1938),102 min,7.8,91        
+1053,Tokyo Story,(1953),136 min,8.2,100        
+1054,Wild Strawberries,(1957),91 min,8.1,88        
+1055,The Legend of 1900,(1998),169 min,8.0,58        
+1056,Batman: Mask of the Phantasm,(1993),76 min,7.8,65        
+1057,A Woman Under the Influence,(1974),155 min,8.1,88        
+1058,Talk to Her,(2002),112 min,7.9,86        
+1059,Children of Heaven,(1997),89 min,8.2,77        
+1060,Red River,(1948),133 min,7.8,-
+1061,Manhattan,(1979),96 min,7.8,83        
+1062,Mr. Smith Goes to Washington,(1939),129 min,8.1,73        
+1063,Nobody Knows,(2004),141 min,8.0,88        
+1064,His Girl Friday,(1940),92 min,7.8,-
+1065,"Goodbye, Children",(1987),104 min,8.0,88        
+1066,Z,(1969),127 min,8.2,86        
+1067,The Bride of Frankenstein,(1935),75 min,7.8,95        
+1068,The Killing,(1956),84 min,8.0,91        
+1069,"Aguirre, the Wrath of God",(1972),95 min,7.8,-
+1070,Andrei Rublev,(1966),205 min,8.1,-
+1071,K.G.F: Chapter 1,(2018),156 min,8.2,-
+1072,A Taxi Driver,(2017),137 min,7.9,69        
+1073,Underground,(1995),167 min,8.1,79        
+1074,The Message,(1976),177 min,8.1,-
+1075,The Station Agent,(2003),89 min,7.6,81        
+1076,Le Samouraï,(1967),101 min,8.0,-
+1077,All About My Mother,(1999),101 min,7.8,87        
+1078,The White Ribbon,(2009),144 min,7.8,82        
+1079,The World's Fastest Indian,(2005),127 min,7.8,68        
+1080,Arsenic and Old Lace,(1944),118 min,7.9,-
+1081,3-Iron,(2004),88 min,7.9,72        
+1082,The Little Prince,(2015),108 min,7.7,70        
+1083,"I, Daniel Blake",(2016),100 min,7.8,78        
+1084,The Discreet Charm of the Bourgeoisie,(1972),102 min,7.8,93        
+1085,Fitzcarraldo,(1982),158 min,8.0,-
+1086,When Marnie Was There,(2014),103 min,7.7,72        
+1087,The Diving Bell and the Butterfly,(2007),112 min,8.0,92        
+1088,Happy Together,(1997),96 min,7.7,70        
+1089,The Tale of The Princess Kaguya,(2013),137 min,8.0,89        
+1090,Shadow of a Doubt,(1943),108 min,7.8,94        
+1091,Harvey,(1950),104 min,7.9,-
+1092,Inherit the Wind,(1960),128 min,8.1,75        
+1093,Cat on a Hot Tin Roof,(1958),108 min,7.9,84        
+1094,Song of the Sea,(2014),93 min,8.0,85        
+1095,Dilwale Dulhania Le Jayenge,(1995),181 min,8.0,-
+1096,My Name Is Khan,(2010),165 min,7.9,50        
+1097,Hedwig and the Angry Inch,(2001),95 min,7.7,85        
+1098,Scarface,(1932),93 min,7.7,87        
+1099,The Triplets of Belleville,(2003),80 min,7.7,91        
+1100,The Kid,(1921),68 min,8.3,-
+1101,Land of Mine,(2015),100 min,7.8,75        
+1102,The Motorcycle Diaries,(2004),126 min,7.7,75        
+1103,The General,(1926),67 min,8.1,-
+1104,Laura,(1944),88 min,7.9,-
+1105,Wait Until Dark,(1967),108 min,7.7,81        
+1106,The Lady Vanishes,(1938),96 min,7.8,98        
+1107,Rocketry: The Nambi Effect,(2022),157 min,8.8,-
+1108,Stalag 17,(1953),120 min,8.0,84        
+1109,Invasion of the Body Snatchers,(1956),80 min,7.7,92        
+1110,Zindagi Na Milegi Dobara,(2011),155 min,8.2,-
+1111,Shershaah,(2021),135 min,8.4,-
+1112,Farewell My Concubine,(1993),171 min,8.1,83        
+1113,Kal Ho Naa Ho,(2003),186 min,7.9,54        
+1114,Hard Boiled,(1992),128 min,7.7,-
+1115,Ayla: The Daughter of War,(2017),125 min,8.3,-
+1116,To Be or Not to Be,(1942),99 min,8.2,86        
+1117,Sunrise,(1927),94 min,8.1,95        
+1118,My Sassy Girl,(2001),137 min,8.0,-
+1119,Lagaan: Once Upon a Time in India,(2001),224 min,8.1,84        
+1120,Night on Earth,(1991),129 min,7.7,68        
+1121,I Remember,(1973),123 min,7.9,-
+1122,La strada,(1954),108 min,8.0,-
+1123,The Passion of Joan of Arc,(1928),114 min,8.2,-
+1124,A Prophet,(2009),155 min,7.8,90        
+1125,The Battle of Algiers,(1966),121 min,8.1,96        
+1126,Out of the Past,(1947),97 min,8.0,85        
+1127,Evil,(2003),113 min,7.7,61        
+1128,Persepolis,(2007),96 min,8.0,90        
+1129,Nostalghia,(1983),125 min,8.0,-
+1130,To Have and Have Not,(1944),100 min,7.8,90        
+1131,The Umbrellas of Cherbourg,(1964),91 min,7.8,86        
+1132,Cowboy Bebop: The Movie,(2001),115 min,7.8,61        
+1133,Sardar Udham,(2021),164 min,8.4,-
+1134,The Lunchbox,(2013),104 min,7.8,76        
+1135,The Sacrifice,(1986),149 min,7.9,-
+1136,The Broken Circle Breakdown,(2012),111 min,7.7,70        
+1137,Brief Encounter,(1945),86 min,8.0,92        
+1138,Cape Fear,(1962),106 min,7.7,76        
+1139,Dersu Uzala,(1975),142 min,8.2,-
+1140,The Sea Inside,(I) (2004),126 min,8.0,74        
+1141,Winter Sleep,(2014),196 min,8.1,88        
+1142,Eyes Without a Face,(1960),90 min,7.6,90        
+1143,The Shop Around the Corner,(1940),99 min,8.0,96        
+1144,Sleuth,(1972),138 min,8.0,-
+1145,Drishyam,(2013),160 min,8.3,-
+1146,Pather Panchali,(1955),125 min,8.3,-
+1147,Miracle on 34th Street,(1947),96 min,7.9,88        
+1148,L'Avventura,(1960),144 min,7.8,-
+1149,Jules and Jim,(1962),105 min,7.7,97        
+1150,The Salesman,(2016),124 min,7.7,85        
+1151,Nine Queens,(2000),114 min,7.9,80        
+1152,The Experiment,(2001),120 min,7.7,60        
+1153,Key Largo,(1948),100 min,7.7,-
+1154,A Man for All Seasons,(1966),120 min,7.7,72        
+1155,Swades,(2004),189 min,8.2,-
+1156,In a Lonely Place,(1950),94 min,7.9,-
+1157,Dreams,(1990),119 min,7.7,-
+1158,Shine,(1996),105 min,7.6,87        
+1159,Wolf Children,(2012),117 min,8.1,71        
+1160,Battleship Potemkin,(1925),66 min,7.9,97        
+1161,Diabolique,(1955),117 min,8.1,-
+1162,The Wages of Fear,(1953),131 min,8.2,85        
+1163,Cries & Whispers,(1972),91 min,8.0,-
+1164,Confessions,(2010),106 min,7.7,-
+1165,"Black Cat, White Cat",(1998),127 min,8.0,73        
+1166,The Chorus,(2004),97 min,7.8,56        
+1167,Joint Security Area,(2000),110 min,7.7,58        
+1168,Gully Boy,(2019),154 min,7.9,65        
+1169,"4 Months, 3 Weeks and 2 Days",(2007),113 min,7.9,97        
+1170,Ninja Scroll,(1993),94 min,7.8,-
+1171,"Spring, Summer, Fall, Winter... and Spring",(2003),103 min,8.0,85        
+1172,Adam's Apples,(2005),94 min,7.7,51        
+1173,The Hidden Fortress,(1958),126 min,8.1,89        
+1174,Taste of Cherry,(1997),95 min,7.7,80        
+1175,"Like Father, Like Son",(2013),121 min,7.8,73        
+1176,Kagemusha,(1980),162 min,7.9,84        
+1177,After the Wedding,(2006),120 min,7.7,78        
+1178,The Asphalt Jungle,(1950),112 min,7.8,85        
+1179,Throne of Blood,(1957),110 min,8.1,-
+1180,You Can't Take It with You,(1938),126 min,7.8,-
+1181,The Gold Rush,(1925),95 min,8.1,-
+1182,Frost/Nixon,(2008),122 min,7.7,80        
+1183,Autumn Sonata,(1978),99 min,8.1,-
+1184,Vivre Sa Vie,(1962),85 min,7.9,-
+1185,The Way He Looks,(2014),96 min,7.9,71        
+1186,Tokyo Godfathers,(2003),92 min,7.8,73        
+1187,The Killer,(1989),111 min,7.8,82        
+1188,The Innocents,(1961),100 min,7.8,88        
+1189,Sherlock Jr.,(1924),45 min,8.2,-
+1190,My Father and My Son,(2005),112 min,8.2,-
+1191,In America,(2002),105 min,7.7,76        
+1192,Mildred Pierce,(1945),111 min,7.9,88        
+1193,Sweet Smell of Success,(1957),96 min,8.0,100        
+1194,Time of the Gypsies,(1988),142 min,8.1,-
+1195,The Caine Mutiny,(1954),124 min,7.7,63        
+1196,Joyeux Noel,(2005),116 min,7.7,70        
+1197,Down by Law,(1986),107 min,7.7,75        
+1198,Departures,(2008),130 min,8.0,68        
+1199,Millennium Actress,(2001),87 min,7.8,70        
+1200,Crimes and Misdemeanors,(1989),104 min,7.8,77        
+1201,My Life as a Zucchini,(2016),70 min,7.7,85        
+1202,Ace in the Hole,(1951),111 min,8.1,72        
+1203,The Muppet Christmas Carol,(1992),85 min,7.7,64        
+1204,The Magdalene Sisters,(2002),114 min,7.7,83        
+1205,The Breadwinner,(2017),94 min,7.7,78        
+1206,Barfi!,(2012),151 min,8.1,-
+1207,Once Upon a Time in Anatolia,(2011),157 min,7.8,82        
+1208,The Exterminating Angel,(1962),95 min,8.0,-
+1209,Le Cercle Rouge,(1970),140 min,7.9,91        
+1210,Munna Bhai M.B.B.S.,(2003),156 min,8.1,-
+1211,Soorarai Pottru,(2020),153 min,8.7,-
+1212,Raise the Red Lantern,(1991),125 min,8.1,-
+1213,Rang De Basanti,(2006),167 min,8.1,-
+1214,Elevator to the Gallows,(1958),91 min,7.9,94        
+1215,Hiroshima Mon Amour,(1959),90 min,7.9,-
+1216,Ivan's Childhood,(1962),95 min,8.0,-
+1217,Sullivan's Travels,(1941),90 min,7.9,-
+1218,The Rules of the Game,(1939),110 min,7.9,98        
+1219,About Elly,(2009),119 min,7.9,87        
+1220,The Virgin Spring,(1960),89 min,8.1,-
+1221,The Girl Who Leapt Through Time,(2006),98 min,7.7,66        
+1222,The Lost Weekend,(1945),101 min,7.9,-
+1223,Celda 211,(2009),113 min,7.6,-
+1224,Jab We Met,(2007),138 min,7.9,-
+1225,The Big Heat,(1953),89 min,7.9,-
+1226,Elite Squad 2: The Enemy Within,(2010),115 min,8.0,71        
+1227,Dil Chahta Hai,(2001),183 min,8.1,-
+1228,Nights of Cabiria,(1957),110 min,8.1,-
+1229,Tangerines,(2013),87 min,8.1,73        
+1230,The Purple Rose of Cairo,(1985),82 min,7.7,75        
+1231,The Postman,(1994),108 min,7.8,81        
+1232,Duck Soup,(1933),69 min,7.8,93        
+1233,Rififi,(1955),118 min,8.1,97        
+1234,Bajrangi Bhaijaan,(2015),163 min,8.1,-
+1235,G.O.R.A.,(2004),127 min,8.0,-
+1236,Haider,(2014),160 min,8.0,-
+1237,Pink,(III) (2016),136 min,8.1,-
+1238,Kind Hearts and Coronets,(1949),106 min,8.0,-
+1239,Through a Glass Darkly,(1961),90 min,8.0,84        
+1240,Raatchasan,(2018),170 min,8.3,-
+1241,The Return,(2003),110 min,7.9,82        
+1242,Beauty and the Beast,(1946),93 min,7.9,92        
+1243,Fireworks,(1997),103 min,7.7,-
+1244,No Man's Land,(I) (2001),98 min,7.9,84        
+1245,Central Station,(1998),110 min,8.0,80        
+1246,Chhichhore,(2019),143 min,8.3,-
+1247,Vikram Vedha,(2017),147 min,8.2,-
+1248,Uri: The Surgical Strike,(2019),138 min,8.2,-
+1249,Article 15,(2019),130 min,8.1,-
+1250,Talvar,(2015),132 min,8.1,-
+1251,"Rome, Open City",(1945),103 min,8.0,-
+1252,Jean de Florette,(1986),120 min,8.1,-
+1253,Queen,(2013),146 min,8.1,-
+1254,The Grand Illusion,(1937),113 min,8.1,-
+1255,C.R.A.Z.Y.,(2005),129 min,7.9,81        
+1256,Knockin' on Heaven's Door,(1997),87 min,7.8,-
+1257,Sholay,(1975),162 min,8.1,-
+1258,Love and Death,(1975),85 min,7.7,89        
+1259,Zelig,(1983),79 min,7.7,-
+1260,OMG: Oh My God!,(2012),125 min,8.1,-
+1261,The Past,(2013),130 min,7.7,85        
+1262,Tae Guk Gi: The Brotherhood of War,(2004),140 min,8.0,64        
+1263,Badhaai Ho,(2018),124 min,7.9,-
+1264,96,(II) (2018),158 min,8.5,-
+1265,Veer Zaara,(2004),192 min,7.8,67        
+1266,A Wednesday,(2008),104 min,8.1,-
+1267,Sanjuro,(1962),96 min,8.0,-
+1268,Dev.D,(2009),144 min,7.9,-
+1269,Hindi Medium,(2017),132 min,7.8,-
+1270,M.S. Dhoni: The Untold Story,(2016),184 min,7.9,-
+1271,The Edge of Heaven,(2007),122 min,7.7,85        
+1272,Winter Light,(1963),81 min,8.0,-
+1273,The Bandit,(1996),128 min,8.1,-
+1274,Umberto D.,(1952),89 min,8.2,92        
+1275,A Night at the Opera,(1935),96 min,7.8,-
+1276,Super 30,(2019),154 min,7.9,-
+1277,Airlift,(2016),130 min,7.9,-
+1278,Bhaag Milkha Bhaag,(2013),186 min,8.2,-
+1279,Asuran,(2019),141 min,8.4,-
+1280,The Circus,(1928),72 min,8.1,90        
+1281,Let's Go! India,(2007),153 min,8.1,68        
+1282,Pad Man,(2018),140 min,7.9,-
+1283,Kahaani,(2012),122 min,8.1,-
+1284,Vicky Donor,(2012),126 min,7.8,-
+1285,Masaan,(2015),109 min,8.1,-
+1286,"Carry On, Munna Bhai",(2006),144 min,8.0,-
+1287,Hera Pheri,(2000),156 min,8.1,-
+1288,Black,(2005),122 min,8.1,-
+1289,The Breath,(2009),128 min,8.0,-
+1290,Vizontele,(2001),110 min,8.0,-
+1291,Udaan,(2010),134 min,8.1,-
+1292,Andaz Apna Apna,(1994),160 min,8.0,-
+1293,Paan Singh Tomar,(2012),135 min,8.2,-
+1294,Baby,(I) (2015),159 min,7.9,-
+1295,English Vinglish,(2012),134 min,7.8,-
+1296,Everything's Gonna Be Great,(1998),107 min,8.1,-
+1297,Anand,(1971),122 min,8.1,-
+1298,Special 26,(2013),144 min,8.0,-
+1299,Sarfarosh,(1999),174 min,8.1,-
